@@ -1,0 +1,9 @@
+ 176 Masala-Kurkure 10 2
+ 457 Basmati-Rice 100 12
+ 990 Vanilla-Icecream 20 3
+ 100 Chilly-Sauce 50 3
+ 500 Ginger-Garlic-Chutney 60 5
+ 900 Almond-oil 90 2
+ 456 Toothpaste 15 1
+ 366 Amool-chocolate 70 12
+ 987 wheat-flour 40 4
